@@ -280,12 +280,6 @@ Delete a task
 
 ## JWT Secret Key
 
-Your Todo application now uses a **cryptographically secure JWT secret key**:
-
-```
-0988e4a28b770045a00520e66cc2db5d30c521ae8e0360b9cec28be6c58dd66d38a027f2405266082838efaa3a107503220058204d057be5f4dd36b8560e7f6f
-```
-
 ##  Security Features
 
 ### **JWT Token Security**
