@@ -295,7 +295,7 @@ describe(' Tasks Tests', () => {
     });
   });
 
-  describe('⭐ Task Features - Priority & Due Date', () => {
+  describe(' Task Features - Priority & Due Date', () => {
     it(' Should create task with priority', async () => {
       const taskData = {
         title: 'High Priority Task',
