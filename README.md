@@ -112,7 +112,7 @@ mohamed-todo-exam/
    ```env
    PORT=3001
    NODE_ENV=development
-   JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+   JWT_SECRET=your-jwt-key
    CLIENT_URL=http://localhost:5173
    DB_PATH=./database.sqlite
    ```
